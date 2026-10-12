@@ -1,0 +1,3 @@
+﻿employee,receipt_file,merchant,date,original_amount,currency,amount_inr,category,policy_status,policy_limit_inr,policy_message,needs_review,agent_summary,error
+farhan,Starbucks Receipt on Wooden Table.png,STARBUCKS,14 Oct 2024,11.54,EUR,,Food,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
+farhan,The Spice House Restaurant Receipt.png,THE SPICE HOUSE,05 Oct 2026,42.96,USD,,Taxi,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined

@@ -1,0 +1,6 @@
+﻿employee,receipt_file,merchant,date,original_amount,currency,amount_inr,category,policy_status,policy_limit_inr,policy_message,needs_review,agent_summary,error
+aathil,05_flight_aed (1).png,,01 Oct 2026,1860.0,AED,,Flight,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
+aathil,06_fuel_inr.png,IndianOIL,07 Oct 2026,538.2,INR,,Other,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
+aathil,08_taxi_inr.png,OLA,06 Oct 2026,488.0,INR,,Taxi,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
+aathil,Starbucks Receipt on Wooden Table.png,STARBUCKS,14 Oct 2024,11.54,EUR,,Food,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
+aathil,The Spice House Restaurant Receipt.png,THE SPICE HOUSE,05 Oct 2026,42.96,USD,,Taxi,Needs Review,,,True,Receipt processing failed; manual review required.,name 'execute_policy' is not defined
